@@ -1,4 +1,4 @@
-import {RedirectHomeButton} from "../components/RedirectHomeButton";
+import RedirectHomeButton from "../components/RedirectHomeButton";
 
 function AboutPage(props) {
     return (
